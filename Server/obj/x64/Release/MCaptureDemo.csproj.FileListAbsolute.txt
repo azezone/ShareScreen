@@ -1,0 +1,11 @@
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\MCaptureDemo.exe.config
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\MCaptureDemo.exe
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\ESBasic.dll
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\Oraycn.MCapture.dll
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\ESBasic.xml
+D:\WorkSpace\BigScreen\Server\bin\x64\Release\Oraycn.MCapture.xml
+D:\WorkSpace\BigScreen\Server\obj\x64\Release\MCaptureDemo.Form1.resources
+D:\WorkSpace\BigScreen\Server\obj\x64\Release\MCaptureDemo.Properties.Resources.resources
+D:\WorkSpace\BigScreen\Server\obj\x64\Release\MCaptureDemo.csproj.GenerateResource.Cache
+D:\WorkSpace\BigScreen\Server\obj\x64\Release\MCaptureDemo.exe
+D:\WorkSpace\BigScreen\Server\obj\x64\Release\MCaptureDemo.csprojResolveAssemblyReference.cache
